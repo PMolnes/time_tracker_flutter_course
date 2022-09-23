@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1083693328344",
+    "project_id": "time-tracker-flutter-3f037",
+    "storage_bucket": "time-tracker-flutter-3f037.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083693328344:android:c9eb80669518d13ab6b4ad",
+        "android_client_info": {
+          "package_name": "com.example.time_tracker_flutter_course"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083693328344-iuhqpd9oha5qb5cljegc6rofc85jk27p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs1C_Y9QKKgeV-ZuGOi5RXSHWT33roOfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083693328344-iuhqpd9oha5qb5cljegc6rofc85jk27p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1083693328344-97mcrnepfeg3au2qemq7c6dpt7nlpgcs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dev.molnes.timeTrackerFlutterCourse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
